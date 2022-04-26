@@ -15,4 +15,4 @@ According to this chart. Kickstarter campaign projects tend to be successfully f
 ### Findings on Musicals in GB 
 In order to succeed on getting a musical funded in GB we highly recommend you to follow the tendencies of successful campaigns within your interests. In the following Box and Whiskers chart we will show you what we found on this:  
 ![Chart3_Investments_ManuelRuizF](Escritorio/Bootcamp_DATA/ProjectsData/Module1/CrowdFunding_Analysis/Chart3_Investments_ManuelRuizF.png)  
-You´ve told us before that you have a budget of $4000 to create the campaign. We highly suggest you to use half of that and the other part of the money save it or invest it on marketing.
+You´ve told us before that you have a budget of $4000 to create the campaign. We highly suggest you to use half of that and the other part of the money save it or invest it on marketing..
